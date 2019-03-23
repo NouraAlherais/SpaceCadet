@@ -1,0 +1,35 @@
+<head><link href="new.css" type="text/css" rel="stylesheet"></head>
+
+.gmail {
+    color:navy;
+        font-family:cursive;
+    font-size:25px
+}
+
+.google { 
+color:brown;
+font-family:cursive;
+font-size:15px
+}
+
+
+#weekend{
+    color:red
+}
+
+
+h1{
+    color:#00007f
+}
+.blue{
+    font-weight: bold
+}
+
+h1{
+    border: 9px ridge maroon;
+    border-radius: 85px;
+    margin:20px 50px
+        
+}
+   
+   
